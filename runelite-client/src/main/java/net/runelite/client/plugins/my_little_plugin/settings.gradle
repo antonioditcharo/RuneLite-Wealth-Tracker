@@ -1,0 +1,3 @@
+package net.runelite.client.plugins.my_little_plugin
+
+rootProject.name = 'my little plugin'
