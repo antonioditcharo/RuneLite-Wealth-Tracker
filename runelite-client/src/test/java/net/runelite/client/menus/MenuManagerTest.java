@@ -36,7 +36,6 @@ import net.runelite.api.MenuAction;
 import static net.runelite.api.MenuAction.RUNELITE;
 import net.runelite.api.MenuEntry;
 import net.runelite.api.events.MenuEntryAdded;
-import net.runelite.api.widgets.ComponentID;
 import net.runelite.client.util.Text;
 import static org.junit.Assert.assertArrayEquals;
 import org.junit.Before;

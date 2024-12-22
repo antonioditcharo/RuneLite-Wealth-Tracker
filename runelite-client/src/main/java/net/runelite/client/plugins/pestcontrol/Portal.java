@@ -28,7 +28,6 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.ToString;
 import net.runelite.api.annotations.Component;
-import net.runelite.api.widgets.ComponentID;
 
 @AllArgsConstructor
 @Getter

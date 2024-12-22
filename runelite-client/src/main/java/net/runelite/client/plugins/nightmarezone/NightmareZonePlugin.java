@@ -35,7 +35,6 @@ import net.runelite.api.Client;
 import net.runelite.api.Varbits;
 import net.runelite.api.events.BeforeRender;
 import net.runelite.api.events.ChatMessage;
-import net.runelite.api.widgets.ComponentID;
 import net.runelite.client.events.ConfigChanged;
 import net.runelite.api.events.GameTick;
 import net.runelite.api.widgets.Widget;

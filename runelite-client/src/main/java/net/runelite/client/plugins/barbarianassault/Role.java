@@ -27,7 +27,6 @@ package net.runelite.client.plugins.barbarianassault;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import net.runelite.api.annotations.Component;
-import net.runelite.api.widgets.ComponentID;
 
 @AllArgsConstructor
 @Getter

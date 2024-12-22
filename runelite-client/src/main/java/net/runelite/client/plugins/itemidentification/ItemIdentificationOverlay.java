@@ -28,7 +28,7 @@ import com.google.inject.Inject;
 import java.awt.Graphics2D;
 import java.awt.Point;
 import java.awt.Rectangle;
-import net.runelite.api.widgets.InterfaceID;
+
 import net.runelite.api.widgets.WidgetItem;
 import net.runelite.client.game.ItemManager;
 import net.runelite.client.ui.FontManager;

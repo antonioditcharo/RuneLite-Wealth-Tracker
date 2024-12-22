@@ -37,7 +37,6 @@ import lombok.Setter;
 import net.runelite.api.Client;
 import net.runelite.api.NullNpcID;
 import net.runelite.api.coords.WorldPoint;
-import net.runelite.api.widgets.ComponentID;
 import net.runelite.api.widgets.Widget;
 import net.runelite.client.config.ConfigManager;
 import net.runelite.client.game.ItemManager;

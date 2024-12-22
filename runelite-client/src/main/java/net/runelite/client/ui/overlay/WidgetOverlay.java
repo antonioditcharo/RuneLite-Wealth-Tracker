@@ -33,7 +33,6 @@ import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.Client;
 import net.runelite.api.Varbits;
 import net.runelite.api.annotations.Component;
-import net.runelite.api.widgets.ComponentID;
 import net.runelite.api.widgets.Widget;
 
 @Slf4j

@@ -94,8 +94,6 @@
 								<exclude>net/runelite/api/annotations/*.class</exclude>
 								<exclude>net/runelite/api/clan/ClanID.class</exclude>
 								<exclude>net/runelite/api/dbtable/DBTableID*.class</exclude>
-								<exclude>net/runelite/api/widgets/ComponentID.class</exclude>
-								<exclude>net/runelite/api/widgets/InterfaceID.class</exclude>
 								<exclude>net/runelite/api/widgets/ItemQuantityMode.class</exclude>
 								<exclude>net/runelite/api/widgets/WidgetID*.class</exclude>
 								<exclude>net/runelite/api/widgets/WidgetModalMode.class</exclude>

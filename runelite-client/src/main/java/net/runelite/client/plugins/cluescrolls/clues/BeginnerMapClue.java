@@ -27,7 +27,6 @@ package net.runelite.client.plugins.cluescrolls.clues;
 import com.google.common.collect.ImmutableList;
 import lombok.Getter;
 import net.runelite.api.coords.WorldPoint;
-import net.runelite.api.widgets.InterfaceID;
 
 @Getter
 public class BeginnerMapClue extends MapClue implements LocationClueScroll

@@ -38,7 +38,6 @@ import net.runelite.api.Client;
 import net.runelite.api.Constants;
 import net.runelite.api.Point;
 import net.runelite.api.Skill;
-import net.runelite.api.widgets.ComponentID;
 import net.runelite.api.widgets.Widget;
 import net.runelite.client.ui.overlay.Overlay;
 import net.runelite.client.ui.overlay.OverlayLayer;

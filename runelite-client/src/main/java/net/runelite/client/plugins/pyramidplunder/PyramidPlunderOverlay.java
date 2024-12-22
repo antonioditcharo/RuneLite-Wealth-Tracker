@@ -35,7 +35,6 @@ import net.runelite.api.ObjectComposition;
 import net.runelite.api.Point;
 import net.runelite.api.Varbits;
 import net.runelite.api.coords.LocalPoint;
-import net.runelite.api.widgets.ComponentID;
 import net.runelite.api.widgets.Widget;
 import static net.runelite.client.plugins.pyramidplunder.PyramidPlunderPlugin.GRAND_GOLD_CHEST_CLOSED_ID;
 import static net.runelite.client.plugins.pyramidplunder.PyramidPlunderPlugin.GRAND_GOLD_CHEST_ID;

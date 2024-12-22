@@ -32,7 +32,6 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import net.runelite.api.Client;
 import net.runelite.api.annotations.Component;
-import net.runelite.api.widgets.ComponentID;
 import net.runelite.api.widgets.Widget;
 import net.runelite.client.ui.overlay.Overlay;
 import net.runelite.client.ui.overlay.OverlayLayer;

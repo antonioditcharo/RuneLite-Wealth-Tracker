@@ -31,8 +31,6 @@ import java.util.Arrays;
 import java.util.Collection;
 import lombok.AccessLevel;
 import lombok.Setter;
-import net.runelite.api.widgets.ComponentID;
-import net.runelite.api.widgets.InterfaceID;
 import net.runelite.api.widgets.Widget;
 import net.runelite.api.widgets.WidgetItem;
 

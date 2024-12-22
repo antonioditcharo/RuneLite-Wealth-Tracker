@@ -27,7 +27,6 @@ package net.runelite.client.plugins.instancemap;
 import com.google.inject.Binder;
 import javax.inject.Inject;
 import net.runelite.api.events.GameStateChanged;
-import net.runelite.api.widgets.ComponentID;
 import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.input.KeyManager;
 import net.runelite.client.input.MouseManager;

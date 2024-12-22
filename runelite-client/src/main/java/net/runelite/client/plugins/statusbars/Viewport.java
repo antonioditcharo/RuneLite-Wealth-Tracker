@@ -27,7 +27,6 @@ package net.runelite.client.plugins.statusbars;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import net.runelite.api.Point;
-import net.runelite.api.widgets.ComponentID;
 
 @Getter
 @AllArgsConstructor

@@ -3,13 +3,10 @@ package net.runelite.client.plugins.wealthtracker;
 import net.runelite.api.Client;
 import net.runelite.api.events.ItemReceived;
 import net.runelite.api.events.GameTick;
-import net.runelite.client.eventbus.EventBus;
 import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.client.ui.overlay.OverlayManager;
-import net.runelite.api.widgets.ComponentID;
-import net.runelite.api.widgets.InterfaceID;
 
 
 import javax.inject.Inject;

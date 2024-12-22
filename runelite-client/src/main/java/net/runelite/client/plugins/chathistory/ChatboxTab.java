@@ -30,7 +30,6 @@ import javax.annotation.Nullable;
 import lombok.Getter;
 import net.runelite.api.ChatMessageType;
 import net.runelite.api.annotations.Component;
-import net.runelite.api.widgets.ComponentID;
 
 @Getter
 enum ChatboxTab
